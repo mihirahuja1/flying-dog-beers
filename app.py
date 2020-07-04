@@ -7,7 +7,7 @@ import plotly.graph_objs as go
 
 import pandas as pd
 import numpy as np
-!pip install spotipy
+#!pip install spotipy
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 
